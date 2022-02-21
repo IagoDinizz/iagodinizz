@@ -1,12 +1,11 @@
 Olá, eu sou o Iago Diniz👋
 
 
-- 🔭 Sou formado em Engenharia Química
-- 🚗 Trabalho na Mercedes Benz no setor de pintura
-- 🌱 Apaixonado por programação
-- 👉 Estudante de Front-End (HTML5, CSS, Javascript)
-- 🙏 Meu objetivo é migrar para o mercado de trabalho de TI
-- 😄 Pronouns: Ele/dele
+- 🔭 Sou formado em Engenharia Química.
+- 🚗 Trabalho na Mercedes Benz no setor de pintura.
+- 🌱 Apaixonado por programação.
+- 👉 Estudante de Front-End (HTML5, CSS, Javascript).
+- 🙏 Meu objetivo é migrar para o mercado de trabalho de TI.
 
 <div align="center">
   <a href="https://github.com/iagodinizz">
